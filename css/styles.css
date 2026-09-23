@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 30px;
+}
+
+button {
+  text-transform: uppercase;
+  background-color: green;
+  color: #fff;
+  padding: 8px 40px;
+  /* border-radius: 50px; */
+  border-radius: 15px;
+  border: none;
+  background-color: #ff000015;
+  color: red;
+}
+
+/* div {
+  height: 300px;
+  width: 300px;
+  
+} */

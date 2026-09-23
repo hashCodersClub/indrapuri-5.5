@@ -77,4 +77,71 @@ type ->
 - tbody
 - tfooter
 
-### Forms
+### Forms in HTML
+
+## <form></form>
+
+## <input/>
+
+# placeholder
+
+# name
+
+# type
+
+- text
+- email
+- number
+- password
+- date
+- \*\*file
+- radio
+- color
+- range
+- submit
+
+# required
+
+- password
+
+# fieldset
+
+## <button></button>
+
+- action
+- method
+
+### CSS - to manipulate default style of the webpage
+
+1. inline css [style attribute] - done [number 1]
+2. internal css [style tag]
+3. external css [seperate file] [recommend]
+
+### css selectors:-
+
+1. tag name
+2. grouping
+3. universal selector
+
+### Syntax:-
+
+selector{
+
+- property1:value;
+- property2:value;
+- .
+- .
+- n
+  }
+
+### Box Model
+
+1. content-box [total height = height + top border + bottom border]
+2. border-box
+
+### Properties :-
+
+1.  text-transform : uppercase
+2.  border-radius
+3.  box-shadow
+4.  color picker
