@@ -145,3 +145,19 @@ selector{
 2.  border-radius
 3.  box-shadow
 4.  color picker
+
+### Types of HTML Based on their appearance
+
+## direct usi element k upar lagti hai
+
+1.  inline - [Jitni jagah chahiye sirf utni hi lenge]
+2.  block - [100% width + height and width is customizable]
+3.  inline-block - [height and width is customizable + Jitni jagah chahiye sirf utni hi lenge ]
+
+## container level display
+
+4. ** flex **
+
+### flex
+
+- justify-content - [left,right,center,space-between,space-around,space-evenly]
